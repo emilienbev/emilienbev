@@ -1,8 +1,42 @@
-<div align="center">
+## Emilien Bevierre
 
-  
-![Metrics](https://metrics.lecoq.io/emilienbev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=ShaderLab%2C%20HLSL%2C%20GLSL%2C%20HCL%2C%20Verilog%2C%20SmallTalk&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=Europe%2FLondon)
+SDK Engineer at Couchbase, working across the .NET, Quarkus, and Spring Data ecosystems.
 
+---
 
-</div>
-<!--[![Emilien's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilienbev&theme=catppuccin_latte&hide_rank=true)](https://github.com/emilienbev/github-readme-stats) -->
+### Couchbase
+
+[![Couchbase .NET SDK](https://img.shields.io/badge/Couchbase_.NET_SDK-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/couchbase/couchbase-net-client)
+[![Couchbase .NET SDK](https://img.shields.io/badge/Couchbase_Analytics_.NET_SDK-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/couchbaselabs/analytics-dotnet-client)
+[![quarkus-couchbase](https://img.shields.io/badge/quarkus--couchbase-4695EB?style=flat&logo=quarkus&logoColor=white)](https://github.com/quarkiverse/quarkus-couchbase)
+[![spring-data-couchbase](https://img.shields.io/badge/spring--data--couchbase-6DB33F?style=flat&logo=spring&logoColor=white)](https://github.com/spring-projects/spring-data-couchbase)
+
+---
+
+### Technical Focus
+
+- Distributed systems & SDK design  
+- .NET and JVM ecosystems  
+- High-performance networking stacks (gRPC, HTTP, Memcached)  
+- Connection pooling, backpressure & throughput optimization  
+- Database client libraries  
+
+---
+
+### Independent Work
+
+[![guitarpro-parser](https://img.shields.io/badge/guitarpro--parser-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/guitarpro-parser)
+
+- Designing and operating microservice systems (Go, Python, Docker, Kubernetes, .NET Aspire)  
+- LLM-backed application backends with structured data storage  
+- Linux systems automation, backup tooling & self-hosted services (NAS/Homelab)
+- Full-stack development with React/Svelte/TypeScript 
+- Embedded telemetry systems (ESP32, HX711, sensor integration)  
+
+---
+
+### Languages & Tooling
+
+C#, .NET, Java, Go, TypeScript, Python  
+Spring, Quarkus, React, Svelte  
+Linux
