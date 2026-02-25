@@ -17,7 +17,8 @@ SDK Engineer at Couchbase, working across the .NET, Quarkus, and Spring Data eco
 
 - Distributed systems & SDK design  
 - .NET and JVM ecosystems  
-- High-performance networking stacks (gRPC, HTTP, Memcached)  
+- High-performance networking stacks (gRPC, HTTP, Memcached)
+- Authentication & security (mTLS, remote certificate validation, JWT, SASL/PLAIN, SCRAM-SHA)
 - Connection pooling, backpressure & throughput optimization  
 - Database client libraries  
 
