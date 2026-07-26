@@ -17,7 +17,7 @@ SDK Engineer at Couchbase.
 
 [![guitarpro-parser](https://img.shields.io/badge/guitarpro--parser-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/guitarpro-parser)
 [![GuitarWeaver](https://img.shields.io/badge/GuitarWeaver-FF8C42?style=flat&logo=google-chrome&logoColor=white)](https://guitarweaver.com)
-[![Curator](https://img.shields.io/badge/Curator%20%7C%20macOS%20%7C%20%20%7C%20-6C63FF?style=flat&logo=databricks&logoColor=white)](https://curator.bleural.com)
+[![Curator macOS](https://img.shields.io/badge/Curator-macOS-6C63FF?style=flat\&logo=apple\&logoColor=white)](https://curator.bleural.com)
 [![Noted](https://img.shields.io/badge/Noted-React%20%7C%20Go%20%7C%20LLM%20%7C%20OCR-6C63FF?style=flat&logo=databricks&logoColor=white)](https://github.com/emilienbev/Noted)
 
 
